@@ -10,8 +10,7 @@ L'application **HelloToast** est conçue avec deux versions, chacune utilisant u
 
 Cette version met en avant la flexibilité et la puissance de `ConstraintLayout` pour positionner les éléments de l'interface utilisateur de manière réactive.
 
-**Vidéo démonstrative de la version ConstraintLayout :**  
-[Regarder la vidéo](lien_vers_video_constraintlayout)
+
 
 ---
 
@@ -23,5 +22,6 @@ Cette version met en avant la flexibilité et la puissance de `ConstraintLayout`
 
 Cette version illustre la simplicité de `LinearLayout`, permettant d'organiser les éléments de manière verticale ou horizontale.
 
-**Vidéo démonstrative de la version LinearLayout :**  
-[https://github.com/MOHAMED-AMINE11/TP1/issues/1] 
+
+**Vidéo démonstrative de la version ConstraintLayout :**  
+[Regarder la vidéo](https://github.com/MOHAMED-AMINE11/TP1/issues/1)
