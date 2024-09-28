@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/helloToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:padding="16dp"
+        android:text="Hello Toast"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/showToastButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/toast_button_label"
+        android:background="@color/blue"
+        android:textColor="@android:color/white"
+        android:padding="16dp"
+        android:textSize="17sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/counterText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/light_yellow"
+        android:paddingTop="150dp"
+        android:paddingBottom="150dp"
+        android:text="0"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/blue"
+        android:textSize="200sp"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/countButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Count"
+        android:background="@color/blue"
+        android:textColor="@android:color/white"
+        android:padding="16dp"
+        android:textSize="17sp" />
+
+</LinearLayout>
