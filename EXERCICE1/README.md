@@ -24,4 +24,4 @@ Cette version met en avant la flexibilité et la puissance de `ConstraintLayout`
 Cette version illustre la simplicité de `LinearLayout`, permettant d'organiser les éléments de manière verticale ou horizontale.
 
 **Vidéo démonstrative de la version LinearLayout :**  
-[Regarder la vidéo]([https://github.com/MOHAMED-AMINE11/TP1/issues/1])
+[https://github.com/MOHAMED-AMINE11/TP1/issues/1] 
