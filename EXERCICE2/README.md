@@ -8,12 +8,6 @@
 
 L'objectif principal de cette application est de fournir une solution simple et efficace pour aider les utilisateurs à comprendre et à estimer leurs impôts locaux. En utilisant une interface simple, les utilisateurs peuvent rapidement entrer leurs données et recevoir des résultats immédiats.
 
-## Fonctionnalités
-
-- Calcul de l'impôt de base en fonction de la surface.
-- Calcul de l'impôt supplémentaire basé sur le nombre de pièces et la présence d'une piscine.
-- Interface utilisateur intuitive avec un design moderne.
-
 ## Fichiers Principaux
 
 - **MainActivity.java** : Le code Java de l'application qui gère la logique de calcul.
