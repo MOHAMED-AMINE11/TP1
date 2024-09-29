@@ -28,7 +28,7 @@ public class Exercice3_TP1_Main extends AppCompatActivity {
         btnSuivant.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Exercice3_TP1_Main.this, Exercice3_TP1_Next.class);
+                Intent intent = new Intent(MainActivityn.this, NextActivity.class);
 
                 StringBuilder selectedOptions = new StringBuilder();
                 if (option1.isChecked()) {
