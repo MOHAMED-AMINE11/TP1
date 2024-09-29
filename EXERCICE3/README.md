@@ -24,4 +24,4 @@ Le fichier `exercice3_tp1_next.xml` définit la mise en page de `NextActivity`. 
 
 Pour voir l'application en action, veuillez consulter la démonstration vidéo ci-dessous :
 
-[Regarder la démonstration vidéo](URL_DE_VOTRE_VIDEO)
+[Regarder la démonstration vidéo](https://github.com/user-attachments/assets/9ccf6d8e-d964-4cf2-87ca-200b87426142)
