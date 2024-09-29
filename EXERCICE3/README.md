@@ -10,11 +10,7 @@ L'objectif de cet exercice est de créer une application Android interactive qui
 
 #### Fichier XML associé : `exercice3_tp1.xml`
 
-Le fichier `exercice3_tp1.xml` définit la mise en page de `MainActivity`, incluant le titre, les questions et les options de réponse. Voici quelques caractéristiques clés :
-
-- **Titre de l'application** : Affiche "E-Certificates" avec un style de texte en gras.
-- **Questions** : Pose des questions avec des options sous forme de cases à cocher.
-- **Boutons** : Inclut des boutons "Quitter" et "Suivant" pour naviguer entre les activités.
+Le fichier `exercice3_tp1.xml` définit la mise en page de `MainActivity`, incluant le titre, les questions et les options de réponse. 
 
 ### 2. NextActivity
 
