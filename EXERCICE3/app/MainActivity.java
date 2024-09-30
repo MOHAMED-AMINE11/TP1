@@ -15,7 +15,7 @@ public class Exercice3_TP1_Main extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.exercice3_tp1); // Assurez-vous que le nom du fichier XML est correct
+        setContentView(R.layout.exercice3_tp1); 
 
         CheckBox option1 = findViewById(R.id.option1);
         CheckBox option2 = findViewById(R.id.option2);
